@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/jasperli0122" target="blank"><img src="https://img.shields.io/twitter/follow/jasperli0122?logo=twitter&style=for-the-badge" alt="jasperli0122" /></a> </p>
 
-- 🔭 I’m currently a Master Student [University of Southern California](https://www.usc.edu/)
+- 🔭 I’m currently a Master Student at [University of Southern California](https://www.usc.edu/)
 
 - 👨‍💻 All of my projects are available at [https://jasper0122.github.io/](https://jasper0122.github.io/)
 
