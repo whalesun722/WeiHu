@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasper0122&label=Profile%20views&color=0e75b6&style=flat" alt="jasper0122" /> </p>
 
-- 🔭 I’m currently a Master Student at [University of Southern California](https://www.usc.edu/)
+- 🔭 - 🛰️ I’m currently a Ph.D. student in Geographic Information Systems at [Texas A&M University](https://www.tamu.edu/), advised by Prof. Lei Zou (TAMU GEAR Lab).
 
 - 👨‍💻 All of my projects are available at [https://jasper0122.github.io/](https://jasper0122.github.io/)
 
-- 📫 How to reach me **zongrong@usc.edu**
+- 📫 How to reach me **zongrong@tamu.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
